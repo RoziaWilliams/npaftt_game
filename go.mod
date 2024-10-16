@@ -5,7 +5,6 @@ go 1.23.1
 require github.com/gin-gonic/gin v1.10.0
 
 require (
-	github.com/RoziaWilliams/npaftt_game v0.0.0-20241016121413-3510482c5ca2 // indirect
 	github.com/bytedance/sonic v1.12.3 // indirect
 	github.com/bytedance/sonic/loader v0.2.0 // indirect
 	github.com/cloudwego/base64x v0.1.4 // indirect
